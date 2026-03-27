@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/nahom-merhatsyon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nahom.tech">
+  <a href="https://nahom.tech](https://nahom.avyevents.com">
     <img src="https://img.shields.io/badge/Website-00FFC8?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Website" />
   </a>
   <a href="https://nahom.tech/contact">
