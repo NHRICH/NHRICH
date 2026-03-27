@@ -1,7 +1,6 @@
-# Title
+# NHRICH
 
-Other sections...
+This is the README for the NHRICH project. We aim to deliver awesome technology solutions. Stay tuned for updates!
 
-![github-snake](https://github.com/NHRICH/github-snake.svg)
-
-Other content…
+## Profile Content
+This section contains information about our team and the technology we work with.
