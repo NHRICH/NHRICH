@@ -78,11 +78,17 @@ A snapshot of what’s actively shipping right now.
 ---
 
 ## System Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NHRICH&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NHRICH&theme=tokyonight&hide_border=true&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&background=0d1117" alt="GitHub Streak" width="48%" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NHRICH&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=21600&v=2"
+  alt="GitHub Stats"
+  width="48%"
+/>
 
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=NHRICH&theme=tokyonight&hide_border=true&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&background=0d1117&cache_seconds=21600&v=2"
+  alt="GitHub Streak"
+  width="48%"
+/>
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/NHRICH/NHRICH/output/github-snake-dark.svg" />
 </p>
